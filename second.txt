@@ -1,4 +1,8 @@
 my name is alisha
 changed for github
 change
+<<<<<<< HEAD
 i am on main branch   learning
+=======
+changed again
+>>>>>>> alisha
